@@ -1,0 +1,20 @@
+
+GND          -> Tierra (0 Voltios).
+VCC o VDD    -> 5 Voltios.
+VEE          -> Potenciometro para regular el contraste de la LCD.
+RS           -> Registrer Select ( Mandamos 0,1).
+RW           -> Read Write.
+E            -> Activar o desactivar el LCD.
+D0,D1,D2,D3,D4,D5,D6,D7   -> Vamos a enviar por estos pines la información.
+A            -> Anodo.
+C            -> Catodo.
+
+
+
+
+
+
+
+
+
+

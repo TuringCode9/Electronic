@@ -1,0 +1,25 @@
+1) Agregando una bibliotecas en Arduino.
+
+.¿Qué es una biblioteca en programación?
+    .Conjunto de implemetaciones funcionales codificada en un lenguaje de programación.
+    .Tiene como fin ser utilizado por otros programas.
+    .El termino correcto es biblioteca ,ya que en el ingles librería es bookstore.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
